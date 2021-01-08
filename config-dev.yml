@@ -1,2 +1,2 @@
-server:
-  port: 33441
+config:
+  info: 3344 服务端配置信息
